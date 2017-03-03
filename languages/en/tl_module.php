@@ -3,7 +3,7 @@
 /**
  * Contao Open Source CMS
  *
- * Copyright (C) 2005-2012 Leo Feyer
+ * Copyright (C) 2005-2017 Leo Feyer
  *
  * @package		NC Registration Admin Notification
  * @author		Marcel Mathias Nolte <marcel.nolte@noltecomputer.de>
