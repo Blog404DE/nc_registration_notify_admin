@@ -17,5 +17,5 @@
 /**
  * Hooks
  */
-$GLOBALS['TL_HOOKS']['createNewUser'][] = array('NcNotifyAdministrator', 'informAdminCreate');
+$GLOBALS['TL_HOOKS']['createNewUser'][] = array('NcNotifyAdministrator' , 'informAdminCreate');
 $GLOBALS['TL_HOOKS']['activateAccount'][] = array('NcNotifyAdministrator', 'informAdminActivate');

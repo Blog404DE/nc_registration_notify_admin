@@ -17,5 +17,11 @@
 /**
  * Fields
  */
-$GLOBALS['TL_LANG']['tl_module']['nc_registration_notify_admin'] = array('Notify administrator after the registration was made', 'Click here, if the website administrator should be notified after an frontend user has been registered.');
-$GLOBALS['TL_LANG']['tl_module']['nc_registration_notify_admin_activate'] = array('Notify administrator after the account was activated', 'Click here, if the website administrator should be notified after an frontend user account has been activated.');
+$GLOBALS['TL_LANG']['tl_module']['nc_registration_notify_admin'] = array(
+	'Notify administrator after the registration was made',
+	'Click here, if the website administrator should be notified after an frontend user has been registered.'
+);
+$GLOBALS['TL_LANG']['tl_module']['nc_registration_notify_admin_activate'] = array(
+	'Notify administrator after the account was activated',
+	'Click here, if the website administrator should be notified after an frontend user account has been activated.'
+);

@@ -19,7 +19,7 @@
  */
 ClassLoader::addNamespaces(array
 (
-	'NC',
+	'NC' ,
 ));
 
 
@@ -29,5 +29,5 @@ ClassLoader::addNamespaces(array
 ClassLoader::addClasses(array
 (
 	// Classes
-	'NC\NcNotifyAdministrator' => 'system/modules/nc_registration_notify_admin/classes/NcNotifyAdministrator.php',
+	'NC\NcNotifyAdministrator' => 'system/modules/nc_registration_notify_admin/classes/NcNotifyAdministrator.php' ,
 ));
